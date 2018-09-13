@@ -1,0 +1,13 @@
+August 13, 1999
+================================================================
+Skin Name              	: Mr-Robato
+Author     		: Jan "Mortero" Lyew
+Email Addresses         : jlyew@geocities.com and mlyew@eee.org
+
+Skin Description: This skin is for the "Lost In Space" Robot model. Capture The Flag red, blue, and green skins are included.  
+
+Other info: Mr-Robato and ctf skins were made in PaintShop Pro4 with the help of the Quake Model Editor.       	
+
+Additional Credits to: Doc for creating the model and Steve Irvine for letting me make the skins for the model.
+ 
+*** These skins may not be used in any form of commercial use. If you want to alter the skins, give me credit. ***

@@ -1,0 +1,56 @@
+24/12/98 - christmas eve
+
+================================================================
+
+Model Name              : Squidge
+
+installation directory  : quake2/baseq2/players/Squidge
+
+Author                  : Jon Blake (aka Squinky)
+
+Email Address           : Blakes@mcmail.com
+
+Website Address         : I have yet to remember.
+
+Model description       : Well, My first quake2 model. Squidge was originally made in 3dsmax, with not much point in existance. So i stuck him in quake2. This ones in battle armour.   
+
+
+Additional Credits to   : 
+	* Idsoftware 
+	
+
+Thanks to               : Me, and dave. who helped with skins and running. 
+
+	
+================================================================
+
+* Play Information *
+
+New Sounds              : No
+
+CTF Skins               : No
+
+VWEP Support            : No
+
+
+* Construction *
+
+Skin Count              : 3 DM
+
+Base		        : From scratch.
+
+Editor used             : 
+		Modeling - 3dsmax
+		Animation- 3dsmax
+		Skining  - Mdl
+		Painting - Photoshop + Paint shop pro 3.1
+		Viewing  - Quake 2
+		
+Known Bugs              : None. Well, none that I have seen anyway.
+
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+Feel free to edit my model as you see fit, just be sure to mention me
+in the readme file. This model is not to be distributed as part of any
+commercial product.

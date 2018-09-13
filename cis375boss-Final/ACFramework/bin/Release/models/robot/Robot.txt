@@ -1,0 +1,45 @@
+24th December 1999
+================================================================
+Model Name		: Robot from Lost in Space
+
+Installation Directory	: Quake2/baseq2/players/robot
+
+Model/Animation Author	: Didier "Rubic's Cube / Doc" Savanah
+
+Sound Pack Author	: Massive Bitch
+
+Skin Author(s)		: Burnt Kona, Mortero, Stilgar, Rubic's Cube, Massive Bitch
+
+Email Addresses		: Burnt Kona = burntkona@burnitbaby.co.uk / Mortero = jlyew@worldnet.att.net / Stilgar = Stilgar@xtra.co.nz / Rubic's Cube = RubicsCube@bigpond.com / Massive Bitch = massivebitch@polycount.com
+
+Model description	: Robot from the television series "Lost in Space"
+
+Credits			: Thanks go out to everyone who helped put Robot together.
+
+Design Errors		: Not all of the animations are complete.  No choice - had to either ship it, or leave it and too many people helped with this one to leave it on the shelf.
+
+================================================================
+
+* Play Information *
+New Sounds		: YES
+CTF Skins		: YES
+VWEP Support		: YES
+
+* Construction *
+Vert Count		: 471
+Mapping Verts		: 235
+Poly Count		: 748
+Skin Dimensions		: 256x256
+Wasted Space		: 19%
+
+Skin Count		: 9
+Skin Credit		: Burnt Kona = Maxwell / Mortero = Mr-Robato & 3 CTF Skins / Stilgar = FISHTANK / Rubic's Cube = Robot & GoldenBoy / Massive Bitch = TK421
+
+* How to use this model *
+Install the Robot.zip file onto whichever drive your Quake2 folder is located within.  All directories should create themselves and place Robot's files into the Quake2/baseq2/players/robot folder.
+
+* Copyright / Permissions *
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+If you want to edit my model thats fine by me, please make sure you mention me
+in your readme file. This model and associated skins are not to be distributed with any
+commercial product without consulting the authors.

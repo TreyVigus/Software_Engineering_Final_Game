@@ -1,0 +1,114 @@
+
+---  I C H A B O D  ---  Ver. 2
+
+
+Author:         Adam Ward  aka Gixter
+Email:          gixter@home.com
+Web:            http://members.home.net/gixter/Ichabod.htm
+
+---  The Story of Ichabod  ---
+
+
+I am Ichabod the undead soldier.  I do not travel in search of fame or 
+riches, but I must avenge my death and find my true brother the 
+only other one that the Strogg didn’t get to.  But I am getting ahead 
+of myself, you do not understand yet.   
+
+I was a Marine in the Great War.  One evening, I was sent to deliver a 
+message to a nearby encampment of marines.  When I returned the 
+next morning, I was captured by my own platoon.  I was tortured and 
+probed for information for two days before I finally gave up the well, 
+you understand.
+
+While I was away, my platoon had been captured and brainwashed by 
+the Strogg.  They were reprogrammed and turned loose to capture 
+and give the treatment to any of their former allies.  Only one other 
+marine from my platoon escaped this fate.  I do not know where he 
+was that night I only know that he was not captured by the Strogg.  
+Now, I seek him out, so that together, we may avenge the fate of our 
+platoon and my death.
+
+My chosen name means, the glory has left this place. Ah, yes, the glory 
+has left, but not the mind, the hate, and the thirst for revenge!
+
+
+--- What Ichabod is ---
+
+Ichabod is my first attempt at a model, and a fun experience for me.  I tried to create 
+a model that would be both original and fit comfortably in the Quake2 environment.  As far
+as I can tell, no one else has created a skeleton model, and It was important to me to 
+have a one of a kind model.  Yes, I have seen skeleton skins, but those suck! I mean,
+ribs drawn on the default model make it look like a halloween costume,  that's not cool!
+now you can see through the chest!  I did not want it to be "anotomically correct" as can be
+seen in the enlargement of the jaw and angle of the brow, and other misc. things like # of 
+ribs and such.  I designed it to be a stylized version of a skeleton, with a few  
+exaggerations as I felt necessary.  Call it campy, but I like a mix of cool and fun, and I 
+can't be ALL serious.  Hope you enjoy it!  Let me know if you like the model, and feel free
+to make your own skins too...
+
+
+--- Notes on Ichabod ---
+
+I have given Ichabod full VWep support, for your fragging enjoyment!  (I cant live without it now...)
+Ctf skins included - these are just color variants of the base skin...
+Custom sounds  
+
+
+--- How to use Ichabod ---
+
+Unzip the zip file into quake2/baseq2/players/Ichabod -  you should have the
+following files:
+
+tris.md2        the model
+weapon.md2      gun model
+a_grenade.md2	vweap file
+w_bfg.md2	   "
+w_blaster.md2	   "
+w_chaingun.md2	   "
+w_glauncher.md2	   "
+w_grapple.md2	   "
+w_hyperblaster.md2 "
+w_machinegun.md2   "
+w_railgun.md2	   "
+w_rlauncher.md2	   "
+w_shotgun.md2	   "
+w_sshotgun.md2	   "
+ichabod_i.pcx   icon
+ichabod.pcx     skin
+weapon.pcx      gun skin
+ichabod.txt     this file
+ctf_b.pcx	blue ctf skin
+ctf_b_i.pcx	blue ctf icon
+ctf_r.pcx	red ctf skin
+ctf_r_i.pcx	red ctf icon
+and 21 .wav files	Ichabod's sounds
+
+
+Once in quake2, you should be able to choose Ichabod as a model in the multiplayer submenu. 
+If you have problems, make sure there are ONLY model folders in the player dir.  and make sure you 
+unzipped these files into a folder called Ichabod.
+
+
+--- Sounds ---
+
+Courtesy of my beautiful voice
+
+--- Bugs Fixed ---
+
+Re-sized model to fit inside bounding box (pretty darn close to male I think)
+Fixed sound file size.
+Fixed odd looking attack animation.(He was aiming up for some reason...)
+Made skins easier to edit. (skins are in color now)
+Fixed the grenade md2 file. (oops, heh heh)
+
+--- Discalimer ---
+
+Ichabod is free to do with as you please, as long as it remains free. Let me know if you like 
+it or use it.  This charachter is entirely original, and is not based, nor is any similarity
+intended, to any existing charachter or model.
+
+--- Thanks to ---
+
+- my wife Amy, for the story, the name, and her patience with me!
+- everyone who sent in email, good and bad!
+     

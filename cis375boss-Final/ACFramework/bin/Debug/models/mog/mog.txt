@@ -1,0 +1,48 @@
+
+Sept 19, 1998
+================================================================
+Model Name              : Mog the Moogle
+installation directory  : quake2/baseq2/players/mog
+Author                  : 'Eviscrator'
+Email Address           : ***
+
+Model description       : This is based off of Mog from the FFVII Model
+			  of Mog during the summon. I thought it turned 
+			  out rather well.
+
+Other info              : Basically I play any id/squaresoft game in
+			  existance. I'm a beginner modeller so be kind	
+			  
+Additional Credits to   : id software, and Squaresoft
+
+Thanks to               : Q2PMP for actually acknowledging my existance!
+================================================================
+* Play Information *
+
+New Sounds              : A few...
+CTF Skins               : Yes
+VWEP Support            : It's coming
+
+
+* Construction *
+Poly Count              : 660 polys
+Vert Count              : 338 Verts
+Skin Count              : 4 Different Skins
+Base                    : Based offa Mog, but I made it from scratch
+Editor used             : Q2 Model Editor (AWESOME Utility)
+Known Bugs              : Mog's gun goes through his head during 1 frame (currently working on 
+			  VWEP... so I'll fix it when I release it)
+			
+Build/Animation time    : About a day for the model... A week for the animating
+
+* How to use this model *
+
+Put all the files in your baseq2/players/mog directory
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+FINAL FANTASY(R) is copyright of Squaresoft
+(Mog might be too)
+
+
